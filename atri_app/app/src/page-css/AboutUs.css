@@ -1,0 +1,43 @@
+.p-AboutUs.Flex15 {
+display: flex;
+justify-content: flex-start;
+align-content: flex-start;
+flex-direction: column;
+align-items: center;
+row-gap: 20px;
+height: 100px;
+}
+.p-AboutUs.TextBox27 {
+;
+}
+.p-AboutUs.TextBox17 {
+font-size: 40px;
+}
+.p-AboutUs.TextBox18 {
+max-width: ;
+font-size: 40px;
+}
+.p-AboutUs.TextBox20 {
+font-size: 40px;
+color: #ee0808;
+}
+.p-AboutUs.Button5 {
+color: #fff;
+background-color: #0e5716;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 25px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+background-image: ;
+flex-grow: 100;
+}

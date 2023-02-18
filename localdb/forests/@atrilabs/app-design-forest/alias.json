@@ -1,0 +1,23 @@
+{
+  "Button": 7,
+  "Input": 3,
+  "Carousel": 2,
+  "BarChart": 2,
+  "Flex": 30,
+  "TextBox": 49,
+  "Div": 17,
+  "Link": 21,
+  "Accordion": 2,
+  "Menu": 2,
+  "Image": 15,
+  "Upload": 4,
+  "Dropdown": 2,
+  "Icon": 2,
+  "Countdown": 1,
+  "Radio": 1,
+  "Slider": 1,
+  "Toggle": 1,
+  "Step": 1,
+  "HistogramChart": 1,
+  "AreaChart": 1
+}

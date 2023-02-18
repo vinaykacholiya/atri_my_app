@@ -1,0 +1,10 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/Home"
+  },
+  "021e14ce-ae48-44e7-85bf-824c671275a0": {
+    "name": "AboutUs",
+    "route": "/AboutUs"
+  }
+}
